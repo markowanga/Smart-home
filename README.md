@@ -21,3 +21,5 @@ Dzięki zastosowaniu różnych dokładności lokalizacji aplikacja nie nadwyrę�
 Telefon kiedy ma za zadanie wysłać informację posługuje się zapytaniem HTTPS w którym podaje m.in. swoje IMEI dzięki czemu system jest w stanie odrzucić zgłoszenia z zewnątrz - np kiedy ktoś zainstaluje naszą apliakcję na swoim telefonie
 
 W mikrokontolerze już nie mogło zostać wykorzystane t rozwiązanie, ponieważ tutaj serwer musi wysyłać dane do mikrokontrolera. Należało więc zastosować websocket. 
+
+<img src="Screenshot_menu.png" width="200"/> <img src="Screenshot_map.png" width="200"/>
