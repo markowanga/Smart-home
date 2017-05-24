@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Smart home</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="openGateButtonLabel">Otwórz bramę</string>
+    <string name="showMapLabelButton">Pokaż mapę</string>
+    <string name="openWicketLabelButton">Otwórz furtkę</string>
+    <string name="startAnalyzeLocation">Zacznij analizować położenie</string>
+    <string name="stopAnalyzeLocation">Przerwij analizować położenie</string>
+
+    <string name="httpSenderToastResponse">Połączenie: </string>
+
+    <string name="action_show_map">Pokaż mapę z punktami</string>
+    <string name="action_show_history">Pokaż historię</string>
+
+    <string name="history_activity_name">Historia</string>
+    <string name="wicket_letter">F</string>
+    <string name="gate_letter">B</string>
+</resources>

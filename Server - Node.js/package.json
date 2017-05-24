@@ -1,0 +1,9 @@
+{
+  "name": "SmartHome",
+  "version": "0.0.1",
+  "description": "Prosty dom inteligentny - sterowanie bramą i furtką",
+  "dependencies": {
+    "mime": "~1.2.7",
+    "nodemailer": "^4.0.1"
+  }
+}
